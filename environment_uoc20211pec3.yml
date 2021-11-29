@@ -10,3 +10,4 @@ dependencies:
   - numpy=1.19.2
   - pandas=1.2.2
   - pydotplus=2.0.2
+  - openpyxl=3.0.9
